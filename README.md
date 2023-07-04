@@ -6,7 +6,8 @@ I'm a full-stack developer focusing on web3 tech and a Polkadot Ambassador from 
 
 
 #### CURRENT ACTIVITIES
-- Currently working as a front-end developer at [Subsocial Network](https://github.com/dappforce), a parachain on the Polkadot network specialising in decentralized social finance platform;
+- Currently active as a freelance front-end dev in web3 space.
+- Contributed to [Subsocial Network](https://github.com/dappforce), a parachain on the Polkadot network specialising in decentralized social finance platform, as a front-end developer;
 - 👨‍💻 Was working on a project called [Digilandbali](https://digilandbali.com/), a fractionalised property ownership via NFT. See my contributions [here](https://github.com/digilandbali/digilandbali-web);
 - ✨ Ideating about web3 products as a cohort in [Polkadot Relayers](https://medium.com/polkadot-network/polkadot-relayers-2022-b641c1c5b247);
 - 💡 Sharing, teaching, and discussing about web3, blockchain, and Polkadot technology!
