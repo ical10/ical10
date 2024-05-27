@@ -17,6 +17,6 @@ I'm a full-stack developer focusing on web3 tech and a Polkadot Ambassador from 
 - 💻 My development environment consists of: [Neovim](https://neovim.io/), [tmux](https://github.com/tmux/tmux/wiki), and [Alacritty](https://alacritty.org/)
 - 🧰 Editing daily: `.js{x}`, `.ts{x}`, `.css`
 - 👓 After work, I study: `.sol`, `.rs`
-- 💪 Actively contributing to [Polkadot anti-scam repo](https://github.com/polkadot-js/phishing) and [Myriad Social web app](https://github.com/myriadsocial/myriad-web)
+- 💪 Actively contributing to [Polkadot anti-scam repo](https://github.com/polkadot-js/phishing)
 - 💬 Find out more about me: https://linktr.ee/husnidotdev
 - ⚡ Fun fact: Hiked Mt. Merapi 🌋 30++ times over the course of three years
