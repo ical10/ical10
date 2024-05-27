@@ -18,6 +18,5 @@ I'm a full-stack developer focusing on web3 tech and a Polkadot Ambassador from 
 - 🧰 Editing daily: `.js{x}`, `.ts{x}`, `.css`
 - 👓 After work, I study: `.sol`, `.rs`
 - 💪 Actively contributing to [Polkadot anti-scam repo](https://github.com/polkadot-js/phishing) and [Myriad Social web app](https://github.com/myriadsocial/myriad-web)
-- 🌏 Mostly active within **Polkadot Discord Community**, handle: **pastaMan#9738**
-- 💬 Reach me via [Twitter](https://twitter.com/mhusnirizal)
+- 💬 Find out more about me: https://linktr.ee/husnidotdev
 - ⚡ Fun fact: Hiked Mt. Merapi 🌋 30++ times over the course of three years
