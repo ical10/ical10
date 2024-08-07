@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Rizal or Husni in the web3 space.
+My name is Husni.
 
-I'm a full-stack developer focusing on web3 tech and a Polkadot Ambassador from Indonesia 🏝️
+I'm a full-stack developer focusing on web3 tech and a Polkadot Ecosystem Agent from Indonesia 🏝️
 
 
 #### CURRENT ACTIVITIES
