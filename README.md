@@ -3,6 +3,7 @@
 My name is Husni.
 
 I'm a blockchain developer (Substrate) focusing on web3 tech and a Polkadot Ecosystem Agent from Indonesia 🏝️
+A graduate from a top tier blockchain education programme called Polkadot Blockchain Academy wave 6 in Lucerne, Switzerland.
 
 
 #### CURRENT ACTIVITIES
