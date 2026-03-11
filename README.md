@@ -7,8 +7,8 @@ A graduate from a top tier blockchain education programme called Polkadot Blockc
 
 
 #### CURRENT ACTIVITIES
-- Currently working as a Blockchain Developer, exploring Substrate and Polkadot SDK;
-- Was on the core team of Scio Labs, building AZERO.ID, the first on-chain domain service on Aleph Zero network;
+- Currently working as a Full-stack Blockchain Developer, using React, Typescript, Node.js, Rust, and Polkadot SDK;
+- Was on the core team of Scio Labs, building AZERO.ID into its mainnet launch, the first on-chain domain service on Aleph Zero network;
 - Contributed to [Subsocial Network](https://github.com/dappforce), a parachain on the Polkadot network specialising in decentralized social finance platform, as a front-end developer;
 - 👨‍💻 Was working on a project called [Digilandbali](https://digilandbali.com/), a fractionalised property ownership via NFT. See my contributions [here](https://github.com/digilandbali/digilandbali-web);
 - 💡 Sharing, teaching, and discussing about web3, blockchain, and Polkadot technology!
